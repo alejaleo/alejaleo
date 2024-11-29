@@ -78,15 +78,11 @@
 
 ###
 
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0MXc4Nzk5N2Z3eWJ0eGJ4d3gzM3dxc241Nm5kMjRhczVzZXNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif"  />
+<img align="left" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0MXc4Nzk5N2Z3eWJ0eGJ4d3gzM3dxc241Nm5kMjRhczVzZXNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://media1.tenor.com/m/Fs1hXDXAW8YAAAAd/runa-shirakawa-kimizero.gif"  />
-
-###
-
-<img align="right" height="180" src="https://media1.tenor.com/m/q_FDi-mQ_hYAAAAd/tanya-computer.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/Fs1hXDXAW8YAAAAd/runa-shirakawa-kimizero.gif"  />
 
 ###
 
