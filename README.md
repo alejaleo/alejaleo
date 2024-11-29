@@ -1,19 +1,4 @@
-## Hi there 👋
-
-<!--
-**alejaleo/alejaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h2 align="left">¡Hola a todos! ❤️ Soy Alejandra, una dev full-stack 💻  que vive en Bogotá  y disfruta creando cosas cool con código 🌈.  Estoy siempre buscando nuevos desafíos y aprendiendo cosas nuevas!  ⭐</h2>
+<h2 align="left">¡Hola a todos! ❤️ Soy Alejandra, una dev full-stack 💻  que vive en Bogotá  y disfruta creando cosas cool con código 🌈.  Estoy siempre buscando nuevos desafíos y aprendiendo cosas nuevas!  ⭐</h2>
 
 ###
 
@@ -93,7 +78,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0MXc4Nzk5N2Z3eWJ0eGJ4d3gzM3dxc241Nm5kMjRhczVzZXNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif"  />
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY0MXc4Nzk5N2Z3eWJ0eGJ4d3gzM3dxc241Nm5kMjRhczVzZXNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif"  />
 
 ###
 
@@ -101,7 +86,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="230" src="https://media1.tenor.com/m/q_FDi-mQ_hYAAAAd/tanya-computer.gif"  />
+<img align="right" height="180" src="https://media1.tenor.com/m/q_FDi-mQ_hYAAAAd/tanya-computer.gif"  />
 
 ###
 
