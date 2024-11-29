@@ -82,7 +82,7 @@
 
 ###
 
-<img align="left" height="210" src="https://media1.tenor.com/m/Fs1hXDXAW8YAAAAd/runa-shirakawa-kimizero.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/Fs1hXDXAW8YAAAAd/runa-shirakawa-kimizero.gif"  />
 
 ###
 
@@ -92,12 +92,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alejaleo/alejaleo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/alejaleo/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alejaleo.alejaleo&left_color=pink&right_color=lightpink&left_text=%C2%A1yuli%20views!"  />
 </div>
 
 ###
