@@ -93,7 +93,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alejaleo.alejaleo&left_color=pink&right_color=lightpink&left_text=%C2%A1yuli%20views!"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alejaleo.alejaleo&left_color=pink&right_color=pink&left_text=%C2%A1yuli%20views!"  />
 </div>
 
 ###
